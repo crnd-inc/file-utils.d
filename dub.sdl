@@ -1,0 +1,8 @@
+name "file-utils"
+description "Collection of utilities to simplify work with files"
+homepage "https://github.com/crnd-inc/file-utils.d"
+authors "Дмитро Катюха"
+copyright "Copyright © 2019, Center of Research and Development"
+license "LGPL-3.0"
+targetType "library"
+version "0.0.1"

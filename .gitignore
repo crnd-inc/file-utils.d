@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+libfile-utils.so
+libfile-utils.dylib
+libfile-utils.dll
+libfile-utils.a
+libfile-utils.lib
+libfile-utils-test-*
+/file-utils
+*.exe
+*.o
+*.obj
+*.lst
+
+*.sw[nop]
